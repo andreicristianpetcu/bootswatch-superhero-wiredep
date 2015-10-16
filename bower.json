@@ -1,21 +1,21 @@
 {
-  "name": "bootswatch-darkly-wiredep",
+  "name": "bootswatch-superhero-wiredep",
   "version": "0.0.0",
   "authors": [
-    "Jeff Ancel <jancel@gmail.com>"
+    "Jeff Ancel <jancel@gmail.com>",
+    "Andrei Cristian Petcu"
   ],
-  "description": "Darkly theme for bootswatch, compatible with wiredep",
+  "description": "Superhero theme for bootswatch, compatible with wiredep",
   "main": [
     "dist/bootstrap.css"
   ],
   "keywords": [
     "Bootstrap",
     "Bootswatch",
-    "Darkly",
+    "Superhero",
     "Wiredep"
   ],
-  "license": "MIT",
-  "homepage": "http://jancel.net",
+  "license": "AGPLv3",
   "ignore": [
     "**/.*",
     "node_modules",
