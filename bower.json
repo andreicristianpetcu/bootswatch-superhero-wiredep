@@ -1,13 +1,14 @@
 {
   "name": "bootswatch-superhero-wiredep",
-  "version": "0.0.0",
+  "version": "v3.3.5",
   "authors": [
     "Jeff Ancel <jancel@gmail.com>",
     "Andrei Cristian Petcu"
   ],
   "description": "Superhero theme for bootswatch, compatible with wiredep",
   "main": [
-    "dist/bootstrap.css"
+    "dist/bootstrap.css",
+    "dist/bootstrap.min.css"
   ],
   "keywords": [
     "Bootstrap",
